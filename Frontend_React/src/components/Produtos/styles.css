@@ -1,0 +1,26 @@
+.paragrafoCateg {
+  font-weight: bolder;
+  font-size: 25px;
+  margin: 0px 0px 0px 0px;
+}
+
+.lista {
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.tamanhoprod {
+  cursor: zoom-in;
+}
+
+.preco {
+  color: red;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+#imgProd {
+  width: 120px;
+}

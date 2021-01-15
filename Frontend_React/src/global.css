@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-color:#1FFFFF;
+}
+
+h3 {
+  margin: 10px;
+}

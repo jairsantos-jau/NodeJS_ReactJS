@@ -1,0 +1,15 @@
+main h2 {
+  color: #066;
+}
+
+p {
+  font-style: italic;
+  margin: 20px;
+  font-family: cursive;
+}
+
+.bem_vindo {
+  margin: 25px;
+  font-family: fantasy;
+  
+}

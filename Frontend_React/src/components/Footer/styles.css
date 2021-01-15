@@ -1,0 +1,17 @@
+#rodape {
+  text-align: center;
+}
+
+#forma_pagamento {
+  color:#066;
+}
+
+#imgPag {
+  width: 25%;
+}
+
+.direitos_autorais {
+  font-family: fantasy;
+  font-size: 12px;
+  text-align: center;
+}

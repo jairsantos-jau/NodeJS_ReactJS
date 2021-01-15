@@ -1,0 +1,75 @@
+.contato {
+  color: #066;
+   font-family: fantasy;
+  text-align: left;
+  margin: 10px;
+  width: 100%;
+}
+
+#faleConos {
+  text-align: center;
+  font-family: fantasy;
+  color: #066;
+  font-size: 30px;
+}
+
+.mensagem {
+  color:#066;
+   font-family: fantasy;
+  margin: 10px;
+  text-align: left;
+}
+
+.botao {
+  color: blue;
+   font-family: fantasy;
+  border-radius: 7px 7px 7px 7px;
+  width: 100px;
+  padding: 0.45%;
+  border: 0 solid black;
+  margin-left: 400px;
+  background-color: green;
+  cursor: pointer;
+}
+
+.nome {
+  width: 500px;
+   font-family: fantasy;
+}
+
+.email {
+  width: 500px;
+   font-family: fantasy;
+}
+
+.textarea {
+  width: 500px;
+  height: 150px;
+
+}
+
+@media (max-width: 1024px) {
+  #fale_form {
+    width: 290px;
+  }
+}
+
+@media (max-width: 1024px) {
+  #fale_botao {
+    width: 25vw;
+    margin-left: 1px;
+  }
+}
+
+#fale_form {
+  width: 37vw;
+}
+
+#text_form {
+  width: 37vw;
+  height: 30vh;
+}
+
+#logoContato {
+  width: 3%;
+}
