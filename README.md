@@ -7,7 +7,12 @@
 *git clone para clona o projeto ou baixa .zip*
 
 ## Criar o banco de dado com suas tabelas.
+fulleletro.db eo banco de dado
 
+## tabelas:
+**categorias**
+**comentarios**
+**produtos**
 
 ## Da um cd para entra ate a pasta BackEnd e fazer a instalação :
 
